@@ -3,8 +3,13 @@
 
 <h2>🖥️ Cybersecurity Projects:</h2>
 
-- <b>Topic 1</b>
-  - [Project](link)
+- <b>Home Linux (Ubuntu) Server</b>
+  - [Raspberry Pi Network Statistics Monitor](link)
+  - [Graylog Docker Container w/ Self-Configured Security Alerts](link)
+  - [PiHole Personal DNS/Ad-Blocking](link)
+  - [Docker-Hosted Personal Password Manager (Vaultwarden)](link)
+  - [Cloudflare-Hosting Personal Domain w/ Self-Configured WAF Rules](link)
+  - [Docker-Hosted Git Instance for Code Storage](link)
 - <b>Topic 2</b>
   - [Project](link)
 - <b>Topic 3</b>
