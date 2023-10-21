@@ -14,7 +14,7 @@
 - <b>Topic 5</b>
   - [Project](link)
 
-<h2>📚 Completed Coursework</h2>
+<h2>📚 Course Certifications</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3ER3PTEUYUMD)
