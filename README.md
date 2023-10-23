@@ -4,7 +4,7 @@
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>Home Linux (Ubuntu) Server</b>
-  - [Raspberry Pi Network Statistics Monitor](link)
+  - [Raspberry Pi Network Statistics Monitor](https://github.com/namelocb/NetworkStatsMonitor/blob/main/README.md)
   - [Graylog Docker Container w/ Self-Configured Security Alerts](link)
   - [PiHole Personal DNS/Ad-Blocking](link)
   - [Docker-Hosted Personal Password Manager (Vaultwarden)](link)
