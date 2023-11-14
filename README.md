@@ -4,7 +4,7 @@
 <h2>🖥️ Cybersecurity Projects:</h2>
 
 - <b>Home Linux (Ubuntu) Server</b>
-  - [Graylog Docker Container w/ Self-Configured Security Alerts](link)
+  - [Docker-Hosted Wazuh, Suricata, & Graylog Instances for Security Monitoring/Logging](link)
   - [PiHole Personal DNS/Ad-Blocking](link)
   - [Docker-Hosted Personal Password Manager (Vaultwarden)](link)
   - [Cloudflare-Hosting Personal Domain w/ Self-Configured WAF Rules](link)
@@ -23,8 +23,6 @@
 - <b>Google Cybersecurity Professional Certificate</b>
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3ER3PTEUYUMD)
     - OWASP · Python · NIST · HIPAA · SQL
-  - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/8VPKCMZ4NK2C)
-    - Risk Management · SOAR · Security Audits · SIEM · Incident Response
   - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/8VPKCMZ4NK2C)
     - Risk Management · SOAR · Security Audits · SIEM · Incident Response
   - [Connect and Protect: Networks and Network Security (In Progress)](link)
