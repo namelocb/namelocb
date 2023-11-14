@@ -9,7 +9,7 @@
   - [Docker-Hosted Personal Password Manager (Vaultwarden)](link)
   - [Cloudflare-Hosting Personal Domain w/ Self-Configured WAF Rules](link)
   - [Docker-Hosted Git Instance for Code Storage](link)
-- <b>Topic 2</b>
+- <b>Raspberry Pi Network Statistics Monitor</b>
   - [Raspberry Pi Network Statistics Monitor](https://github.com/namelocb/NetworkStatsMonitor/blob/main/README.md)
 - <b>Topic 3</b>
   - [Project](link)
