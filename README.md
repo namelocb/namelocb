@@ -10,7 +10,7 @@
   - [Cloudflare-Hosting Personal Domain w/ Self-Configured WAF Rules](link)
   - [Docker-Hosted Git Instance for Code Storage](link)
 - <b>Raspberry Pi Network Statistics Monitor</b>
-  - [Raspberry Pi Network Statistics Monitor](https://github.com/namelocb/NetworkStatsMonitor/blob/main/README.md)
+  - [Network Statistics Monitor](https://github.com/namelocb/NetworkStatsMonitor/blob/main/README.md)
 - <b>Topic 3</b>
   - [Project](link)
 - <b>Topic 4</b>
